@@ -1,0 +1,4 @@
+api:
+  alphaavantage:
+    url: "https://www.alphavantage.co/support/#api-key"
+    apiToken:  "BJ5112ZTVNS667QJ"  #${VANTAGE_API_KEY}
